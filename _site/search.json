@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sravani Vadlamani",
+    "section": "",
+    "text": "Please feel free to use the tabs above to get to know more about me and reach out if you would like to have a chat!"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Sravani Vadlamani",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "background.html",
+    "href": "background.html",
+    "title": "Sravani Vadlamani",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "You may also use the form below to send me a brief message and I will get back to you as soon as possible!\n\n\n\nName*\n\n\n\nEmail*\n\n\n\nMessage*\n\n\n\n\n Please note that submitting this form will take you to an external gracias page\n\n\nSend"
+  },
+  {
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "Awards",
+    "section": "",
+    "text": "Receipient of 2022 Dan S Rickman Best Paper Award from the Review of Regional Studies\nLink to Paper\n\n\n\nRecipient of Jenny L.Grote Student Leadership Award by the Institute of Transportation Engineers Arizona\n\n\n\nWinner of Institute of Transportation Engineers Paper Presentation Contest, 2010\nWinner of Institute of Transportation Engineers Paper Presentation Contest, 2009"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "State Marijuana Laws and Traffic Fatalities\n\nObjective: Examine the relation between traffic fatalities and state marijuana laws\nData: Medical Marijuana Laws data and Traffic fatalities from FARS\nMethod: Poisson Regression in STATA\n\n\n\nHOT Lanes with a Refund Option\n\nObjective: Investigate travelers attitudes towards a possible refund option for priced managed lanes\nData: Stated Preference Survey Data\nMethod: Structural Equation Models and Multinomial Logit Models using MPlus and NLOGIT\n\n\n\nPrioritizing Emissions Mitigation Strategies at Mariposa Port of Entry\n\nObjective: Quantification of emission profiles at border crossings to reduce air pollution\nData: Vehicle trajectory data collected at the Port of Entry in Nogales, AZ\nMethod: Simulation Models in VISSIM and emissions analysis in MOVES\n\n\n\nMacroscopic and Microscopic Analysis of Traffic Hysteresis\n\nObjective: Investigate the phenomenon of traffic hysteresis in freeway traffic flow\nData: Vehicle trajectory data from NGSIM\nMethod: MATLAB\n\n\n\nCountermeasures to Reduce Large Truck Crashes\n\nObjective: Identify hot spots for large truck crashes in Arizona and recommend potential countermeasures\nData: Crash Data\nMethod: Count Models (Negative Binomial Regression and Poisson Regression) in **LIMDEP/NLOGIT"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am an Assistant Professor in the Department of Data Science and Business Analytics at Florida Polytechnic University. Prior to joining academia, I obtained my degrees in engineering, statistics and Geographic Information Systems from Arizona State University. I have also worked as a Transportation Engineer for the Maryland State Highway Administration (SHA). If you would like to know the story of someone who was scared of math and numbers till high school but succeeded in college and professionally feel free to reach out!"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\nPhD in Civil Engineering (Transportation Engineering)\nCertificate  in Statistics\nMasters in Geographic Information Systems (GIS)\nMasters in Civil Engineering\nBachelors in Civil Engineering"
+  },
+  {
+    "objectID": "about.html#teaching",
+    "href": "about.html#teaching",
+    "title": "About Me",
+    "section": "Teaching",
+    "text": "Teaching\nThe following are the courses I have taught. Please feel free to reach out to me if you need more information on them.\n\nStatistics\nStatistical Learning\nAdvanced Quantitative Methods\nData Analytics for Smart Cities and Transportation\nIntelligent Mobility\nSix Sigma\nData Analytics Capstone I\nData Analytics Capstone II\nConcepts & Methods for Engineers\nScience & Technology Capstone I & II"
+  },
+  {
+    "objectID": "about.html#hobbies",
+    "href": "about.html#hobbies",
+    "title": "About Me",
+    "section": "Hobbies",
+    "text": "Hobbies\nI am passionate about yoga and meditation. I completed my 200 hour yoga teacher training and plan on doing the 300 hour training. I also love to spend time outdoors hiking and on the beach.\n\n\n\nI have been trying to kindle the artistic side of my brain by attending an adult art class (funfact: I barely passed my drawing classes in elementary and middle school 😁)."
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Sravani Vadlamani",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "This page presents my thoughts on few topics relevant to data science. Coming Soon!"
+  }
+]
