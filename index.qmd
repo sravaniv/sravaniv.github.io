@@ -1,0 +1,19 @@
+---
+title: "Sravani Vadlamani"
+image: profile.jpg
+about:
+  template: trestles
+  links:
+     - href: https://www.linkedin.com/in/sravanivadlamani/
+       icon: linkedin
+       text: LinkedIn
+     - href: https://www.github.com/sravaniv
+       icon: github
+       text: Github
+
+---
+
+Hola! My name is Sravani and I am passionate about using the skills I gained as a data scientist, project manager and expert trainer to turn numbers into insights and make informed business decisions for the betterment of the society and future generations. In my free time, I enjoy hiking,reading books and cooking.
+
+Please feel free to use the tabs above to get to know more about me and reach out if you would like to have a chat!
+

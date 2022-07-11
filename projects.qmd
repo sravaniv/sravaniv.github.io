@@ -1,0 +1,42 @@
+---
+title: "Projects"
+format:
+  html:
+    theme: default
+    toc: true
+    toc-location: left
+---
+
+This page presents information on the data centric projects I worked on including the topic, data source, analysis method and link to results where available.
+
+### [State Marijuana Laws and Traffic Fatalities](https://doi.org/10.52324/001c.30970)
+
+- **Objective:** Examine the relation between traffic fatalities and state marijuana laws
+- **Data:** [Medical Marijuana Laws](https://www.ncsl.org/research/health/state-medical-marijuana-laws.aspx) data and Traffic fatalities from [FARS](https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars) 
+- **Method:** Poisson Regression in  [STATA](https://www.stata.com/) 
+
+### [HOT Lanes with a Refund Option](https://trid.trb.org/view/1392727)
+
+- **Objective:** Investigate travelers attitudes towards a possible refund option for priced managed lanes
+- **Data:** Stated Preference Survey Data 
+- **Method:** Structural Equation Models and Multinomial Logit Models using [MPlus](https://www.statmodel.com/) and [NLOGIT](https://www.limdep.com/products/nlogit/) 
+
+### [Prioritizing Emissions Mitigation Strategies at Mariposa Port of Entry](https://www.sciencedirect.com/science/article/abs/pii/S136192091530208X)
+
+- **Objective:** Quantification of emission profiles at border crossings to reduce air pollution
+- **Data:** Vehicle trajectory data collected at the Port of Entry in Nogales, AZ 
+- **Method:** Simulation Models in [VISSIM](https://www.myptv.com/en/mobility-software/ptv-vissim) and emissions analysis in [MOVES](https://www.epa.gov/moves)
+
+### [Macroscopic and Microscopic Analysis of Traffic Hysteresis](https://www.sciencedirect.com/science/article/abs/pii/S0968090X1100091X)
+
+- **Objective:** Investigate the phenomenon of traffic hysteresis in freeway traffic flow
+- **Data:** Vehicle trajectory data from [NGSIM](https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm) 
+- **Method:** MATLAB
+
+### [Countermeasures to Reduce Large Truck Crashes](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29TE.1943-5436.0000183)
+
+- **Objective:** Identify hot spots for large truck crashes in Arizona and recommend potential countermeasures
+- **Data:** Crash Data
+- **Method:** Count Models (Negative Binomial Regression and Poisson Regression) in **[LIMDEP/NLOGIT](https://www.limdep.com/products/nlogit/)
+
+

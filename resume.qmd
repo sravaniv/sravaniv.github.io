@@ -1,0 +1,9 @@
+---
+title: "Resume"
+format:
+  html:
+    theme: default
+
+---
+### [🖨 Click to download or print a copy of my resume](Sravani Vadlamani_Resume.pdf) {.unnumbered .unlisted}
+

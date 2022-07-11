@@ -1,0 +1,12 @@
+---
+title: "Blog"
+format:
+  html:
+    theme: default
+    toc: true
+    toc-location: left
+---
+
+This page presents my thoughts on few topics relevant to data science. Coming Soon!
+
+

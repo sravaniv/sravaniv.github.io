@@ -1,0 +1,51 @@
+---
+title: "About Me"
+format:
+  html:
+    theme: default
+    toc: true
+    toc-location: left
+---
+
+## Background
+
+I am an Assistant Professor in the Department of **Data Science and Business Analytics** at Florida Polytechnic University. Prior to joining academia, I obtained my degrees in engineering, statistics and Geographic Information Systems from **Arizona State University**. I have also worked as a Transportation Engineer for the **Maryland State Highway Administration (SHA)**. If you would like to know the story of someone who was scared of math and numbers till high school but succeeded in college and professionally feel free to reach out!
+
+## Education
+
+- **PhD** in Civil Engineering (Transportation Engineering)
+- **Certificate ** in Statistics 
+- **Masters** in Geographic Information Systems (GIS)
+- **Masters** in Civil Engineering 
+- **Bachelors** in Civil Engineering
+
+## Teaching
+
+The following are the courses I have taught. Please feel free to reach out to me if you need more information on them. 
+
+- Statistics
+- Statistical Learning
+- Advanced Quantitative Methods
+- Data Analytics for Smart Cities and Transportation
+- Intelligent Mobility
+- Six Sigma
+- Data Analytics Capstone I
+- Data Analytics Capstone II
+- Concepts & Methods for Engineers
+- Science & Technology Capstone I & II
+
+<center><img src="FLPoly_Class_281.jpg" 
+             style="max-height: 315px;"
+             alt="Sravani Helping Students in Classroom"/></center>
+
+## Hobbies
+
+I am passionate about yoga and meditation. I completed my 200 hour yoga teacher training and plan on doing the 300 hour training. I also love to spend time outdoors hiking and on the beach.
+<center><img src="missionpeak.JPG" 
+             style="max-height: 315px;"
+             alt="Sravani on top of Mission Peak in Fremont, CA"/></center>
+             
+
+
+\n I have been trying to kindle the artistic side of my brain by attending an adult art class (funfact: I barely passed my drawing classes in elementary and middle school <span style='font-size:25px;'>&#128513;</span>). 
+

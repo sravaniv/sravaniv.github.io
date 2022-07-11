@@ -1,0 +1,26 @@
+---
+title: "Awards"
+format:
+  html:
+    theme: default
+
+---
+
+* Receipient of 2022 Dan S Rickman **Best Paper Award** from the Review of Regional Studies  
+[Link to Paper](https://rrs.scholasticahq.com/article/30970-state-marijuana-laws-and-traffic-fatalities)
+<center><img src="paper.jpg" 
+             style="max-height: 315px;"
+             alt="Sravani's Best Paper Award Plaque"/></center>
+
+* Recipient of *Jenny L.Grote Student Leadership Award* by the Institute of Transportation Engineers Arizona
+<center><img src="award1.jpg" 
+             style="max-height: 315px;"
+             alt="Sravani receiving the Leadership Award from Jenny Grote"/></center>
+             
+* *Winner* of Institute of Transportation Engineers Paper Presentation Contest, 2010
+* *Winner* of Institute of Transportation Engineers Paper Presentation Contest, 2009
+             
+
+
+
+

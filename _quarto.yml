@@ -1,0 +1,33 @@
+project:
+  type: website
+  Output-dir: docs
+website:
+  title: "Sravani"
+  navbar: 
+    background: primary
+    left:
+     - file: about.qmd
+       text: "About Me"
+     - file: projects.qmd
+       text: "Data Centric Projects"
+     - file: blog.qmd
+       text: "My Blog"
+     - file: awards.qmd
+       text: "Awards"
+     - file: resume.qmd
+       text: "Résumé"
+     - file: contact.qmd
+       text: "Contact Me"
+    right:
+     - href: https://www.linkedin.com/in/sravanivadlamani/
+       icon: linkedin
+     - href: https://www.github.com/sravaniv
+       icon: github
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+
